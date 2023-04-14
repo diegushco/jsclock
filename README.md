@@ -1,4 +1,4 @@
-"# jsClock" 
+# jsClock"
 
 This is my version of challenge number 2 of https://javascript30.com/
 
